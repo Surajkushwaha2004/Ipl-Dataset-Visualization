@@ -50,11 +50,6 @@ As a **Data Analyst**, the task was to analyze IPL data and build **interactive 
 
 ---
 
-## 🌐 Tableau Dashboard
-👉 [View Full Dashboard on Tableau Public](https://public.tableau.com/app/profile/manaswi.kamila)
-
----
-
 ## 🛠 Tools Used
 - Tableau → Dashboard and visualizations  
 - CSV files → Data source  
